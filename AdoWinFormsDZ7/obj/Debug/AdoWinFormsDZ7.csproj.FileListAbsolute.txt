@@ -1,0 +1,11 @@
+C:\Users\marko_000\source\repos\AdoWinFormsDZ7\AdoWinFormsDZ7\bin\Debug\AdoWinFormsDZ7.exe.config
+C:\Users\marko_000\source\repos\AdoWinFormsDZ7\AdoWinFormsDZ7\bin\Debug\AdoWinFormsDZ7.exe
+C:\Users\marko_000\source\repos\AdoWinFormsDZ7\AdoWinFormsDZ7\bin\Debug\AdoWinFormsDZ7.pdb
+C:\Users\marko_000\source\repos\AdoWinFormsDZ7\AdoWinFormsDZ7\obj\Debug\AdoWinFormsDZ7.csprojAssemblyReference.cache
+C:\Users\marko_000\source\repos\AdoWinFormsDZ7\AdoWinFormsDZ7\obj\Debug\AdoWinFormsDZ7.addProduct.resources
+C:\Users\marko_000\source\repos\AdoWinFormsDZ7\AdoWinFormsDZ7\obj\Debug\AdoWinFormsDZ7.Form1.resources
+C:\Users\marko_000\source\repos\AdoWinFormsDZ7\AdoWinFormsDZ7\obj\Debug\AdoWinFormsDZ7.Properties.Resources.resources
+C:\Users\marko_000\source\repos\AdoWinFormsDZ7\AdoWinFormsDZ7\obj\Debug\AdoWinFormsDZ7.csproj.GenerateResource.cache
+C:\Users\marko_000\source\repos\AdoWinFormsDZ7\AdoWinFormsDZ7\obj\Debug\AdoWinFormsDZ7.exe
+C:\Users\marko_000\source\repos\AdoWinFormsDZ7\AdoWinFormsDZ7\obj\Debug\AdoWinFormsDZ7.pdb
+C:\Users\marko_000\source\repos\AdoWinFormsDZ7\AdoWinFormsDZ7\obj\Debug\AdoWinFormsDZ7.addCustomer.resources

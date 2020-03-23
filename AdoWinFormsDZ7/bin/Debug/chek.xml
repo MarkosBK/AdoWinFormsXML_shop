@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Check xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <buyDate>2020-03-23T00:00:00+02:00</buyDate>
+  <customerFIO>customerFIO1</customerFIO>
+  <employeeFIO>employeeFIO1</employeeFIO>
+  <listProducts>
+    <Product>
+      <productName>fridge1</productName>
+      <price>25000</price>
+      <count>3</count>
+      <total>25000</total>
+    </Product>
+    <Product>
+      <productName>fridge3</productName>
+      <price>10000</price>
+      <count>2</count>
+      <total>10000</total>
+    </Product>
+  </listProducts>
+</Check>Name>fridge4</productName>
+      <price>3000</price>
+      <count>7</count>
+      <total>3000</total>
+    </Product>
+  </listProducts>
+</Check>
